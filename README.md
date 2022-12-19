@@ -9,6 +9,7 @@ www.patika.dev
 <p>Merhaba ben <strong><em>Alptuğ Kazım Bilginsoy</em></strong> . Makine mühendisi aynı zamanda teknik öğretmenim.</p>
 <p>Şu sıralar Kodluyoruzda HTML eğitimleri almaktayım.Aynı zamanda Doktora öğrencisiyim.</p>
 <h2>İlgi Alanlarım</h2>
+
 <ol>
     <li>Filmler</li>
     <ul>
@@ -20,9 +21,6 @@ www.patika.dev
         </li>
         <li>Harry Potter</li>
     </ul>
-
-    <br>
-
     <li>Diziler</li>
     <ul>
         <li><a 
@@ -31,7 +29,6 @@ www.patika.dev
         <li>Leyla ile Mecnun</li>
         <li>Stranger Things</li>
     </ul>
-    <br>
     <li>Kitaplar</li>
     <ul>
         <li><a 
@@ -41,7 +38,7 @@ www.patika.dev
         <li>İnsan Ne İle Yaşar-Tolstoy</li>
     </ul>
 </ol>
-<br>
+
 <h3>Sevdiğim Diziler</h3>
 <h4>How i Met Your Mother</h4>
 <img src="images/1.jpg" border="8" alt="Dizi Resmi">
